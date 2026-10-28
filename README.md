@@ -15,6 +15,8 @@
 
 Latte and Mocha meet in a single Prism theme: a pale morning page and a deep blue evening, joined by lavender accents, blue links and a trace of golden warmth.
 
+Explore the full [Prism theme gallery](https://github.com/martinkoutecky/tine/discussions/786) to compare all 29 themes in light and dark modes.
+
 ### Dark mode
 
 ![Catppuccin · Prism in Tine dark mode](docs/catppuccin-dark.png)

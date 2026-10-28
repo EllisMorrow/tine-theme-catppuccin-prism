@@ -8,6 +8,8 @@
 
 Latte 与 Mocha 相逢于同一款 Prism 主题：一页清浅晨色，一片深蓝夜幕，以薰衣草紫、蓝色链接和些许金色暖意相连。
 
+在 [Prism 主题画廊](https://github.com/martinkoutecky/tine/discussions/786)中，可以直观比较全部 29 个主题的浅色与深色效果。
+
 ### 深色模式
 
 ![Catppuccin · Prism 深色模式实拍](docs/catppuccin-dark.png)
